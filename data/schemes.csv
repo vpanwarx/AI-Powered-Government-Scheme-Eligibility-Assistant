@@ -1,0 +1,101 @@
+scheme_id,scheme_name,state,occupation,gender,category,education,min_age,max_age,income_limit,benefit
+1,PM Scholarship,All,Student,All,General,12th Pass,18,25,300000,Financial Assistance
+2,Central Sector Scholarship,All,Student,All,General,12th Pass,18,25,450000,Scholarship Support
+3,Post Matric Scholarship,All,Student,All,SC/ST/OBC,10th Pass,16,30,250000,Educational Support
+4,Merit Cum Means Scholarship,All,Student,All,Minority,12th Pass,17,30,250000,Tuition Fee Support
+5,National Means Cum Merit Scholarship,All,Student,All,General,8th Pass,13,18,350000,Scholarship Amount
+6,UP Scholarship,Uttar Pradesh,Student,All,General,10th Pass,14,30,250000,Education Support
+7,PM Kisan,All,Farmer,All,General,Any,18,100,500000,Farmer Assistance
+8,Kisan Credit Card,All,Farmer,All,General,Any,18,70,500000,Agricultural Credit
+9,PM Fasal Bima Yojana,All,Farmer,All,General,Any,18,100,1000000,Crop Insurance
+10,Soil Health Card Scheme,All,Farmer,All,General,Any,18,100,1000000,Soil Testing Support
+11,Agriculture Infrastructure Fund,All,Farmer,All,General,Any,18,100,1000000,Infrastructure Assistance
+12,Skill India,All,Student,All,General,Any,18,35,1000000,Skill Development Training
+13,PMKVY,All,Student,All,General,Any,18,35,1000000,Vocational Training
+14,Jan Shikshan Sansthan,All,Student,All,General,Any,18,45,1000000,Skill Training
+15,Beti Bachao Beti Padhao,All,Student,Female,General,Any,0,35,1000000,Support for Girl Child
+16,Sukanya Samriddhi Yojana,All,Student,Female,General,Any,0,18,1000000,Savings Scheme
+17,Ujjwala Yojana,All,Homemaker,Female,General,Any,18,60,300000,LPG Connection Support
+18,Stand Up India,All,Entrepreneur,Female,SC/ST,Any,18,60,1000000,Business Loan Support
+19,Startup India,All,Entrepreneur,All,General,Graduate,18,45,1000000,Startup Assistance
+20,Mudra Loan Scheme,All,Entrepreneur,All,General,Any,18,60,1000000,Business Funding
+21,PM Employment Generation Programme,All,Entrepreneur,All,General,8th Pass,18,50,1000000,Employment Support
+22,National Apprenticeship Promotion Scheme,All,Student,All,General,12th Pass,18,30,1000000,Apprenticeship Support
+23,Digital India Internship,All,Student,All,General,Graduate,18,30,1000000,Internship Opportunity
+24,Atal Pension Yojana,All,Employee,All,General,Any,18,40,1000000,Pension Benefits
+25,E-Shram Scheme,All,Worker,All,General,Any,16,60,500000,Social Security Benefits
+26,PM Awas Yojana,All,Homemaker,All,General,Any,18,70,600000,Housing Assistance
+27,Ayushman Bharat,All,Worker,All,General,Any,0,100,500000,Health Insurance Coverage
+28,National Career Service,All,Student,All,General,Graduate,18,35,1000000,Employment Guidance
+29,Deen Dayal Upadhyaya Grameen Kaushalya Yojana,All,Student,All,General,10th Pass,18,35,500000,Skill Development
+30,PM SVANidhi,All,Entrepreneur,All,General,Any,18,60,500000,Street Vendor Loan
+31,National Fellowship Scheme,All,Student,All,SC/ST/OBC,Graduate,21,40,500000,Higher Education Fellowship
+32,Free Coaching Scheme,All,Student,All,Minority,12th Pass,16,35,300000,Competitive Exam Coaching
+33,PM Jeevan Jyoti Bima Yojana,All,Employee,All,General,Any,18,50,1000000,Life Insurance
+34,PM Suraksha Bima Yojana,All,Employee,All,General,Any,18,70,1000000,Accident Insurance
+35,National Family Benefit Scheme,All,Worker,All,General,Any,18,60,300000,Financial Assistance
+36,Samagra Shiksha Abhiyan,All,Student,All,General,8th Pass,6,18,1000000,Education Support
+37,Rashtriya Madhyamik Shiksha Abhiyan,All,Student,All,General,8th Pass,12,18,1000000,Secondary Education Support
+38,National Digital Literacy Mission,All,Student,All,General,Any,14,60,1000000,Digital Literacy Training
+39,One Stop Centre Scheme,All,Homemaker,Female,General,Any,18,60,500000,Women Support Services
+40,Working Women Hostel Scheme,All,Employee,Female,General,Graduate,18,45,500000,Hostel Facility
+41,Mahila Shakti Kendra,All,Homemaker,Female,General,Any,18,60,500000,Women Empowerment
+42,National Rural Livelihood Mission,All,Homemaker,Female,General,Any,18,60,500000,Self Employment Support
+43,Pradhan Mantri Matru Vandana Yojana,All,Homemaker,Female,General,Any,18,45,500000,Maternity Benefit
+44,National Urban Livelihood Mission,All,Worker,All,General,Any,18,60,500000,Urban Employment Support
+45,PM Vishwakarma Yojana,All,Worker,All,General,Any,18,60,500000,Traditional Artisan Support
+46,Solar Rooftop Subsidy Scheme,All,Employee,All,General,Any,18,70,1000000,Solar Installation Subsidy
+47,National Green Corps,All,Student,All,General,10th Pass,14,25,1000000,Environmental Awareness Program
+48,Chief Minister Scholarship Scheme,Uttar Pradesh,Student,All,General,12th Pass,18,30,300000,Scholarship Assistance
+49,Youth Startup Scheme,Uttar Pradesh,Entrepreneur,All,General,Graduate,18,35,500000,Startup Funding
+50,Senior Citizen Welfare Scheme,All,Employee,All,General,Any,60,100,1000000,Senior Citizen Benefits
+51,National Health Mission,All,Worker,All,General,Any,18,60,500000,Healthcare Support
+52,Rashtriya Swasthya Bima Yojana,All,Worker,All,General,Any,18,60,300000,Medical Insurance
+53,National Child Labour Project,All,Student,All,General,Any,8,18,300000,Child Education Support
+54,Balika Samridhi Yojana,All,Student,Female,General,Any,0,18,300000,Girl Child Welfare
+55,National Scheme for Incentive to Girls,All,Student,Female,General,8th Pass,13,18,500000,Educational Incentive
+56,National Overseas Scholarship,All,Student,All,SC/ST/OBC,Graduate,21,35,800000,Study Abroad Assistance
+57,Top Class Education Scheme,All,Student,All,SC/ST/OBC,12th Pass,18,30,800000,Higher Education Support
+58,Pre Matric Scholarship,All,Student,All,Minority,8th Pass,10,18,250000,School Scholarship
+59,Begum Hazrat Mahal Scholarship,All,Student,Female,Minority,10th Pass,14,25,250000,Minority Scholarship
+60,National Talent Search Scheme,All,Student,All,General,10th Pass,14,20,1000000,Talent Development
+61,Farmer Producer Organisation Scheme,All,Farmer,All,General,Any,18,70,1000000,Agricultural Support
+62,National Beekeeping Scheme,All,Farmer,All,General,Any,18,65,1000000,Beekeeping Assistance
+63,Dairy Entrepreneurship Development Scheme,All,Farmer,All,General,Any,18,60,1000000,Dairy Business Support
+64,Fisheries Development Scheme,All,Farmer,All,General,Any,18,60,1000000,Fisheries Assistance
+65,Organic Farming Promotion Scheme,All,Farmer,All,General,Any,18,70,1000000,Organic Farming Support
+66,Micro Irrigation Scheme,All,Farmer,All,General,Any,18,70,1000000,Irrigation Subsidy
+67,Seed Distribution Scheme,All,Farmer,All,General,Any,18,70,1000000,Quality Seed Support
+68,Agricultural Mechanization Scheme,All,Farmer,All,General,Any,18,70,1000000,Farm Equipment Subsidy
+69,National Horticulture Mission,All,Farmer,All,General,Any,18,70,1000000,Horticulture Development
+70,Krishi Udan Scheme,All,Farmer,All,General,Any,18,70,1000000,Agricultural Logistics Support
+71,Women Entrepreneurship Platform,All,Entrepreneur,Female,General,Graduate,18,45,1000000,Business Development
+72,MSME Credit Guarantee Scheme,All,Entrepreneur,All,General,Any,18,60,1000000,Loan Guarantee
+73,Technology Upgradation Scheme,All,Entrepreneur,All,General,Graduate,18,60,1000000,Technology Support
+74,Innovation Promotion Scheme,All,Entrepreneur,All,General,Graduate,18,40,1000000,Innovation Funding
+75,Export Promotion Scheme,All,Entrepreneur,All,General,Graduate,21,60,1000000,Export Assistance
+76,National Handloom Development Programme,All,Worker,All,General,Any,18,60,500000,Handloom Support
+77,National Handicraft Scheme,All,Worker,All,General,Any,18,60,500000,Handicraft Promotion
+78,Street Vendors Welfare Scheme,All,Worker,All,General,Any,18,60,500000,Vendor Assistance
+79,Construction Workers Welfare Scheme,All,Worker,All,General,Any,18,60,500000,Worker Welfare Benefits
+80,Labour Education Scheme,All,Worker,All,General,Any,18,60,500000,Skill Enhancement
+81,Divyang Pension Scheme,All,Worker,All,General,Any,18,80,300000,Disability Pension
+82,Accessible India Campaign,All,Worker,All,General,Any,18,80,1000000,Accessibility Support
+83,Disability Scholarship Scheme,All,Student,All,General,10th Pass,14,30,300000,Scholarship for Disabled Students
+84,National Trust Scheme,All,Worker,All,General,Any,18,80,500000,Disability Support Services
+85,Senior Citizens Savings Scheme,All,Employee,All,General,Any,60,100,1000000,Savings Benefits
+86,Indira Gandhi National Old Age Pension,All,Employee,All,General,Any,60,100,300000,Old Age Pension
+87,Widow Pension Scheme,All,Homemaker,Female,General,Any,18,80,300000,Financial Support
+88,National Social Assistance Programme,All,Worker,All,General,Any,18,80,300000,Social Security Benefits
+89,Sports Scholarship Scheme,All,Student,All,General,10th Pass,14,25,1000000,Sports Scholarship
+90,Khelo India Scheme,All,Student,All,General,8th Pass,10,25,1000000,Sports Development
+91,Youth Leadership Programme,All,Student,All,General,12th Pass,18,30,1000000,Leadership Training
+92,National Service Scheme Support,All,Student,All,General,12th Pass,18,30,1000000,Community Development
+93,Digital Skill Mission,All,Student,All,General,10th Pass,16,35,1000000,Digital Skills Training
+94,Cyber Security Awareness Programme,All,Student,All,General,12th Pass,18,35,1000000,Cyber Security Training
+95,AI Skill Development Programme,All,Student,All,General,Graduate,18,35,1000000,Artificial Intelligence Training
+96,Data Science Fellowship Scheme,All,Student,All,General,Graduate,21,35,1000000,Data Science Fellowship
+97,Green Energy Internship Scheme,All,Student,All,General,Graduate,18,30,1000000,Renewable Energy Internship
+98,Research Internship Programme,All,Student,All,General,Graduate,18,30,1000000,Research Experience
+99,Rural Innovation Fellowship,All,Student,All,General,Graduate,21,35,1000000,Rural Development Fellowship
+100,Digital Governance Fellowship,All,Student,All,General,Graduate,21,35,1000000,E-Governance Fellowship
